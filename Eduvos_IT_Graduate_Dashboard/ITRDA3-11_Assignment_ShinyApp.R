@@ -7,7 +7,7 @@ library(stringr)
 library(shinythemes)
 library(RColorBrewer)
 
-# Load the dataset (Make sure the path is correct)
+# Load the dataset 
 campus_filtered <- read.csv("~/Documents/Eduvos University/Data Science 3rd Year/Block 1/ITRDA3-11 /Assignment/campus_filtered.csv", 
                             stringsAsFactors = FALSE)
 
