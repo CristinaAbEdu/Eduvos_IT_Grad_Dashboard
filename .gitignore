@@ -1,11 +1,6 @@
-.DS_Store
-.Rproj.user/
-Assignment.Rproj
-ITRDA3-11 Assignment.Rmd
-ITRDA3-11 Assignment.nb.html
-graduate_survey.csv
+# Ignore everything in the folder
+Eduvos_IT_Graduate_Dashboard/*
+
+# But keep the Shiny app file
+!Eduvos_IT_Graduate_Dashboard/ITRDA3-11_Assignment_ShinyApp.R
 .Rproj.user
-.Rhistory
-.Rdata
-.httr-oauth
-.quarto
