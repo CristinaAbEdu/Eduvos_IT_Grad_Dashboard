@@ -1,0 +1,13 @@
+Eduvos IT Graduate Dashboard Submission
+
+GitHub Repository Link:
+https://github.com/CristinaAbEdu/Eduvos_IT_Grad_Dashboard
+
+Deployed Dashboard Link:
+
+
+Instructions:
+- The GitHub repository contains all the R Shiny files required for the dashboard.
+- The deployed dashboard can be accessed using the above link.
+
+Submitted by: Cristina Abrahamse 
